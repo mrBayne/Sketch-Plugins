@@ -1,6 +1,6 @@
 # Sketch-Plugins
 
-Here's a list of SKetch plugins that I couldn't work with out.
+Here's a list of Sketch plugins that I couldn't work with out.
 
 - [Auto Layout](https://animaapp.github.io/) - The stack feature is a must.
 - [Runner](http://sketchrunner.com/) - With ​​run​ you'll be able to quickly search through all available plugins and Sketch menu commands. No more dropdown menus!
