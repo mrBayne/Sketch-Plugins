@@ -13,3 +13,4 @@ Here's a list of Sketch plugins that I couldn't work with out.
 - [Symbol Organizer](https://github.com/sonburn/symbol-organizer) - Keep your symbols page organised.
 - [Text Magic](https://github.com/tinci/Text-Magic?ref=sketchhunt) - Split text to layers, very useful!
 - [User Flows](https://abynim.github.io/UserFlows/) - A plugin for generating flow diagrams from Artboards in Sketch.
+- [Merge Duplicate Symbols](https://github.com/oodesign/merge-duplicate-symbols) - Plugin to merge symbols with the same name.
