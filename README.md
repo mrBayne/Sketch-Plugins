@@ -14,3 +14,4 @@ Here's a list of Sketch plugins that I couldn't work with out.
 - [Text Magic](https://github.com/tinci/Text-Magic?ref=sketchhunt) - Split text to layers, very useful!
 - [User Flows](https://abynim.github.io/UserFlows/) - A plugin for generating flow diagrams from Artboards in Sketch.
 - [Merge Duplicate Symbols](https://github.com/oodesign/merge-duplicate-symbols) - Plugin to merge symbols with the same name.
+- [Sketch to AE](https://google.github.io/sketch2ae/) - Export to After Effects
