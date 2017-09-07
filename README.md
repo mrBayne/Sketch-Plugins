@@ -15,3 +15,4 @@ Here's a list of Sketch plugins that I couldn't work with out.
 - [User Flows](https://abynim.github.io/UserFlows/) - A plugin for generating flow diagrams from Artboards in Sketch.
 - [Merge Duplicate Symbols](https://github.com/oodesign/merge-duplicate-symbols) - Plugin to merge symbols with the same name.
 - [Sketch to AE](https://google.github.io/sketch2ae/) - Export to After Effects
+- [Link colours](https://lalomrtnz.github.io/Chain/) - Not 100% sure how this one works but looks useful
