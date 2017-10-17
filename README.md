@@ -17,3 +17,4 @@ Here's a list of Sketch plugins that I couldn't work with out.
 - [Sketch to AE](https://google.github.io/sketch2ae/) - Export to After Effects
 - [Link colours](https://lalomrtnz.github.io/Chain/) - Not 100% sure how this one works but looks useful
 - [iOS shadows](https://github.com/Volorf/iShadow) - Create realistic iOS shadows with ease
+- [Library Symbol Replacer](https://github.com/zeroheight/library-symbol-replacer) - Replace symbols with library ones.
