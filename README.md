@@ -18,3 +18,5 @@ Here's a list of Sketch plugins that I couldn't work with out.
 - [Link colours](https://lalomrtnz.github.io/Chain/) - Not 100% sure how this one works but looks useful
 - [iOS shadows](https://github.com/Volorf/iShadow) - Create realistic iOS shadows with ease
 - [Library Symbol Replacer](https://github.com/zeroheight/library-symbol-replacer) - Replace symbols with library ones.
+- [loose-sketch-plugin](https://github.com/teeerevor/loose-sketch-plugin) - Add arrows to lines.
+
